@@ -10,8 +10,8 @@ import threading
 
 #This is Data
 bot = commands.Bot(command_prefix = "!")
-TOKEN = 'NzgzMTk2MjQ0MDEyNTY0NDgw.X8XOVw.Pdqp9gvuuOCOSXRf8reU376EEVc'
-convertapi.api_secret = 'EgdmL7DaOIAwPPBt'
+TOKEN = 'TOKEN HERE'
+convertapi.api_secret = 'SECRET HERE'
 respond = [
     'Im not your catto',
     'yes?',
